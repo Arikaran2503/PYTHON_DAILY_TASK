@@ -1,4 +1,4 @@
-# 🐍 Day 05 - Python Lists & List Methods
+# 🐍 Day 05 - Python Lists & List Methods 
 
 This folder contains my **Day 05 Python practice programs**. In this session, I learned about Python lists, indexing, slicing, built-in list methods, and different list operations.
 
